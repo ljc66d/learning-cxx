@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Learning C++
 
 > **NOTICE** 推荐阅读 [C++ 参考手册](https://zh.cppreference.com/w/cpp) 学习 C/C++ 语法和 STL 库。
@@ -66,3 +67,7 @@
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - ~~[Google 风格指南（中文版）](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents.html)~~（deprecated）
 - [360 安全规则集合](https://github.com/Qihoo360/safe-rules)
+=======
+# learning-cxx
+C++ learning exercises
+>>>>>>> 4faf2d7d0e27059280af9dba75a67629d3052490

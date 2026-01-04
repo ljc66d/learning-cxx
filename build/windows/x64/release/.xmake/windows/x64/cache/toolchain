@@ -1,0 +1,1129 @@
+{
+    tool_target_exercise24_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise26_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise21_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise32_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise03_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise17_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise19_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise11_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise31_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise22_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    gfortran_arch_x64_plat_windows = {
+        __global = true,
+        __checked = true,
+        plat = "windows",
+        arch = "x64"
+    },
+    tool_target_exercise23_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise19_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise25_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise01_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise03_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise07_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise17_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise00_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise16_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise04_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise33_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise25_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise12_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise30_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise28_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise27_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise28_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise04_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise11_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise03_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise02_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise15_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise21_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise31_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise26_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise14_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise32_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise17_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise07_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise30_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise11_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise09_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise06_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    go_arch_x64_plat_windows = {
+        __global = true,
+        __checked = true,
+        plat = "windows",
+        arch = "x64"
+    },
+    fpc_arch_x64_plat_windows = {
+        __global = true,
+        __checked = true,
+        plat = "windows",
+        arch = "x64"
+    },
+    tool_target_exercise08_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise20_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise30_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise00_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise02_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    clang_arch_x64_plat_windows = {
+        arch = "x64",
+        plat = "windows",
+        __global = true
+    },
+    swift_arch_x64_plat_windows = {
+        __global = true,
+        __checked = true,
+        plat = "windows",
+        arch = "x64"
+    },
+    tool_target_exercise29_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    nim_arch_x64_plat_windows = {
+        __global = true,
+        __checked = false,
+        plat = "windows",
+        arch = "x64"
+    },
+    tool_target_exercise14_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise10_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise01_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    yasm_arch_x64_plat_windows = {
+        __global = true,
+        __checked = true,
+        plat = "windows",
+        arch = "x64"
+    },
+    tool_target_exercise20_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise22_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise24_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise12_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise29_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise09_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise06_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise18_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise05_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise01_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise22_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise04_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise06_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise15_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise20_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise16_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise07_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise18_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise10_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise33_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise23_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise33_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise05_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise23_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise05_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise02_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise08_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    zig_arch_x64_plat_windows = {
+        arch = "x64",
+        plat = "windows",
+        __global = true
+    },
+    tool_target_exercise15_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise18_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise09_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise28_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise14_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    nasm_arch_x64_plat_windows = {
+        __global = true,
+        __checked = true,
+        plat = "windows",
+        arch = "x64"
+    },
+    tool_target_exercise27_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise24_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise10_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise32_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise13_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise19_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise31_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise25_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    tool_target_exercise16_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    rust_arch_x64_plat_windows = {
+        __global = true,
+        __checked = true,
+        plat = "windows",
+        arch = "x64"
+    },
+    tool_target_exercise08_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise29_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise26_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    msvc_arch_x64_plat_windows = {
+        __global = true,
+        vs_sdkver = "10.0.26100.0",
+        vcvars = {
+            VSCMD_ARG_app_plat = "Desktop",
+            ExtensionSdkDir = [[C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs]],
+            VCToolsVersion = "14.50.35717",
+            DevEnvdir = [[C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\]],
+            VSCMD_VER = "18.1.1",
+            VSCMD_ARG_TGT_ARCH = "x64",
+            WindowsSDKVersion = "10.0.26100.0",
+            VCToolsInstallDir = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\]],
+            LIB = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\ATLMFC\lib\x64;C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\lib\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\10\\lib\10.0.26100.0\\um\x64]],
+            VSInstallDir = [[C:\Program Files\Microsoft Visual Studio\18\Community\]],
+            LIBPATH = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\ATLMFC\lib\x64;C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\lib\x64;C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.26100.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.26100.0;C:\Windows\Microsoft.NET\Framework64\v4.0.30319]],
+            VCInstallDir = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\]],
+            INCLUDE = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include;C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\ATLMFC\include;C:\Program Files\Microsoft Visual Studio\18\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.26100.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.26100.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.26100.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.26100.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um]],
+            VCIDEInstallDir = [[C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\VC\]],
+            VS180COMNTOOLS = [[C:\Program Files\Microsoft Visual Studio\18\Community\Common7\Tools\]],
+            UCRTVersion = "10.0.26100.0",
+            VisualStudioVersion = "18.0",
+            WindowsLibPath = [[C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.26100.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.26100.0]],
+            WindowsSdkBinPath = [[C:\Program Files (x86)\Windows Kits\10\bin\]],
+            WindowsSdkVerBinPath = [[C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\]],
+            UniversalCRTSdkDir = [[C:\Program Files (x86)\Windows Kits\10\]],
+            PATH = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64;C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\VC\VCPackages;C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\bin\Roslyn;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files\Microsoft Visual Studio\18\Community\Team Tools\DiagnosticsHub\Collector;C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\Extensions\Microsoft\CodeCoverage.Console;C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\Llvm\x64\bin;C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\\x64;C:\Program Files (x86)\Windows Kits\10\bin\\x64;C:\Program Files\Microsoft Visual Studio\18\Community\\MSBuild\Current\Bin\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\;C:\Program Files\Microsoft Visual Studio\18\Community\Common7\Tools\;C:\Users\lvjia\miniconda3;C:\Users\lvjia\miniconda3\Library\mingw-w64\bin;C:\Users\lvjia\miniconda3\Library\usr\bin;C:\Users\lvjia\miniconda3\Library\bin;C:\Users\lvjia\miniconda3\Scripts;C:\Users\lvjia\miniconda3\bin;C:\Users\lvjia\miniconda3\condabin;F:\MYOS\Service\DBus\bin;D:\MYOS\Service\DBus\bin;D:\minic\Scripts;C:\Users\lvjia\Desktop;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\lvjia\miniconda3\envs\py;D:\minic;D:\bin;C:\ProgramData\Meiya\DBus\bin;D:\bin;D:\libnvvp;D:\56\Library\mingw-w64\bin;D:\56\Library\bin;D:\56\Library\usr\bin;D:\56\Scripts;D:\56;D:\2\Library\mingw-w64\bin;D:\2;D:\2\Library\usr\bin;D:\2\Library\bin;D:\Git\cmd;D:\2\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet;C:\Program Files\NVIDIA Corporation\Nsight Compute 2023.3.0;C:\Users\lvjia\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.2\bin;D:\minic\Library\mingw-w64\bin;D:\minic\Library\usr\bin;D:\minic\Library\bin;C:\Users\lvjia\AppData\Local\Programs\Python\Python313\Scripts;C:\Users\lvjia\AppData\Local\Programs\Python\Python313;C:\Program Files\JetBrains\PyCharm 2024.1\bin;D:\Program files\py\PyCharm Community Edition 2024.1.7\bin;C:\Users\lvjia\.dotnet\tools;G:\Fiddler;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.1\bin;C:\Users\lvjia\AppData\Local\Programs\Ollama;D:\anaconda;.;C:\Program Files\xmake;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;D:\minic;D:\minic\Library\mingw-w64\bin;D:\minic\Library\usr\bin;D:\minic\Library\bin;D:\minic\Scripts;D:\56;D:\56\Library\mingw-w64\bin;D:\56\Library\usr\bin;D:\56\Library\bin;D:\56\Scripts;D:\2;D:\2\Library\mingw-w64\bin;D:\2\Library\usr\bin;D:\2\Library\bin;D:\2\Scripts;C:\Users\lvjia\AppData\Local\Programs\Python\Python313\Scripts;C:\Users\lvjia\AppData\Local\Programs\Python\Python313;C:\Users\lvjia\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm 2024.1\bin;.;D:\Program files\py\PyCharm Community Edition 2024.1.7\bin;.;C:\Users\lvjia\.dotnet\tools;G:\Fiddler;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.1\bin;C:\Users\lvjia\AppData\Local\Programs\Ollama;F:\JZDSLx\llm_location;C:\Users\lvjia\.dotnet\tools;C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja;C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\VC\Linux\bin\ConnectionManagerExe;C:\Program Files\Microsoft Visual Studio\18\Community\VC\vcpkg]],
+            VSCMD_ARG_HOST_ARCH = "x64",
+            WindowsSdkDir = [[C:\Program Files (x86)\Windows Kits\10\]],
+            VCToolsRedistDir = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Redist\MSVC\14.50.35710\]]
+        },
+        vs_toolset = "14.50.35717",
+        plat = "windows",
+        vs = "2026",
+        __checked = "2026",
+        arch = "x64",
+        vcarchs = {
+            "arm",
+            "arm64",
+            "arm64ec",
+            "x64",
+            "x86"
+        }
+    },
+    tool_target_exercise13_windows_x64_cc = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise13_windows_x64_ld = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe]],
+        toolname = "link"
+    },
+    cuda_arch_x64_plat_windows = {
+        __global = true,
+        __checked = true,
+        plat = "windows",
+        arch = "x64"
+    },
+    tool_target_exercise12_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise27_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise21_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    },
+    tool_target_exercise00_windows_x64_cxx = {
+        toolchain_info = {
+            arch = "x64",
+            cachekey = "msvc_arch_x64_plat_windows",
+            plat = "windows",
+            name = "msvc"
+        },
+        program = [[C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\cl.exe]],
+        toolname = "cl"
+    }
+}

@@ -1,8 +1,9 @@
 ﻿#include "../exercise.h"
-
+#include<cmath>
 // READ: 函数模板 <https://zh.cppreference.com/w/cpp/language/function_template>
 // TODO: 将这个函数模板化
-int plus(int a, int b) {
+template<typename T>// 声明模板参数T，代表任意类型（自动推导）
+T plus(T a, T b) {
     return a + b;
 }
 
@@ -14,7 +15,8 @@ int main(int argc, char **argv) {
     ASSERT(plus(1.25f, 2.5f) == 3.75f, "Plus two float");
     ASSERT(plus(1.25, 2.5) == 3.75, "Plus two double");
     // TODO: 修改判断条件使测试通过
-    ASSERT(plus(0.1, 0.2) == 0.3, "How to make this pass?");
+    constexpr double EPS = 1e-9;// 容差值，double类型用1e-9，float用1e-6
+    ASSERT(std::fabs(plus(0.1, 0.2) - 0.3) < EPS, "How to make this pass?");
 
     return 0;
 }

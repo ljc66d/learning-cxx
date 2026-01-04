@@ -1,17 +1,21 @@
 ﻿#include "../exercise.h"
 #include <map>
+#include <string>// 为std::string提供支持
 
 // READ: `std::map` <https://zh.cppreference.com/w/cpp/container/map>
 // READ: `std::unordered_map` <https://zh.cppreference.com/w/cpp/container/unordered_map>
 
 template<class k, class v>
 bool key_exists(std::map<k, v> const &map, k const &key) {
-    // TODO: 实现函数
+    // 实现：使用std::map::find查找键，判断迭代器是否不等于end()
+    auto it = map.find(key);
+    return it != map.end();
 }
 
 template<class k, class v>
 void set(std::map<k, v> &map, k key, v value) {
-    // TODO: 实现函数
+    // 实现：使用std::map的[]运算符，实现“存在则更新，不存在则插入”
+    map[key] = value;
 }
 
 // ---- 不要修改以下代码 ----

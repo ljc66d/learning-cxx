@@ -17,14 +17,22 @@ struct TaggedUnion {
     };
 };
 
-// TODO: 将这个函数模板化用于 sigmoid_dyn
-float sigmoid(float x) {
+// 函数模板化：支持float和double类型的sigmoid计算
+template<typename T>
+T sigmoid(T x) {
     return 1 / (1 + std::exp(-x));
 }
 
 TaggedUnion sigmoid_dyn(TaggedUnion x) {
-    TaggedUnion ans{x.type};
-    // TODO: 根据 type 调用 sigmoid
+    TaggedUnion ans{x.type};// 初始化返回值的类型标签，与输入一致
+    // 根据type分支处理，调用对应类型的sigmoid
+    if (x.type == DataType::Float) {
+        // 输入是float类型，取出x.f计算，结果存入ans.f
+        ans.f = sigmoid(x.f);
+    } else if (x.type == DataType::Double) {
+        // 输入是double类型，取出x.d计算，结果存入ans.d
+        ans.d = sigmoid(x.d);
+    }
     return ans;
 }
 
